@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "typescript": "^4.9.4"
+  },
+  "allowJs": true,
+  "scripts": {
+    "compile": "npx tsc",
+    "exe": "node js/main.js",
+    "start": "npm run compile && npm run exe"
+  }
+}
