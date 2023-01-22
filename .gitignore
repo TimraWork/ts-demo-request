@@ -1,3 +1,8 @@
 js
 node_modules
 .idea
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
